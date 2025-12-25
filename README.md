@@ -20,6 +20,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Muntaj18/DSA/tree/master/0002-add-two-numbers) |
+| [0029-divide-two-integers](https://github.com/Muntaj18/DSA/tree/master/0029-divide-two-integers) |
 ## Recursion
 |  |
 | ------- |
@@ -28,6 +29,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/Muntaj18/DSA/tree/master/0029-divide-two-integers) |
 | [2206-divide-array-into-equal-pairs](https://github.com/Muntaj18/DSA/tree/master/2206-divide-array-into-equal-pairs) |
 ## Counting
 |  |
