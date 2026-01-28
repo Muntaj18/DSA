@@ -13,6 +13,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/Muntaj18/DSA/tree/master/0001-two-sum) |
 | [0141-linked-list-cycle](https://github.com/Muntaj18/DSA/tree/master/0141-linked-list-cycle) |
+| [1189-maximum-number-of-balloons](https://github.com/Muntaj18/DSA/tree/master/1189-maximum-number-of-balloons) |
 | [1512-number-of-good-pairs](https://github.com/Muntaj18/DSA/tree/master/1512-number-of-good-pairs) |
 | [2206-divide-array-into-equal-pairs](https://github.com/Muntaj18/DSA/tree/master/2206-divide-array-into-equal-pairs) |
 ## Linked List
@@ -43,6 +44,7 @@
 ## Counting
 |  |
 | ------- |
+| [1189-maximum-number-of-balloons](https://github.com/Muntaj18/DSA/tree/master/1189-maximum-number-of-balloons) |
 | [1512-number-of-good-pairs](https://github.com/Muntaj18/DSA/tree/master/1512-number-of-good-pairs) |
 | [2206-divide-array-into-equal-pairs](https://github.com/Muntaj18/DSA/tree/master/2206-divide-array-into-equal-pairs) |
 ## Two Pointers
@@ -55,4 +57,8 @@
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/Muntaj18/DSA/tree/master/0234-palindrome-linked-list) |
+## String
+|  |
+| ------- |
+| [1189-maximum-number-of-balloons](https://github.com/Muntaj18/DSA/tree/master/1189-maximum-number-of-balloons) |
 <!---LeetCode Topics End-->
