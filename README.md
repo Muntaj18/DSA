@@ -28,6 +28,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Muntaj18/DSA/tree/master/0002-add-two-numbers) |
+| [0009-palindrome-number](https://github.com/Muntaj18/DSA/tree/master/0009-palindrome-number) |
 | [0029-divide-two-integers](https://github.com/Muntaj18/DSA/tree/master/0029-divide-two-integers) |
 | [1512-number-of-good-pairs](https://github.com/Muntaj18/DSA/tree/master/1512-number-of-good-pairs) |
 ## Recursion
