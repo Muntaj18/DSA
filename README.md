@@ -31,6 +31,7 @@
 | [0009-palindrome-number](https://github.com/Muntaj18/DSA/tree/master/0009-palindrome-number) |
 | [0029-divide-two-integers](https://github.com/Muntaj18/DSA/tree/master/0029-divide-two-integers) |
 | [0231-power-of-two](https://github.com/Muntaj18/DSA/tree/master/0231-power-of-two) |
+| [0509-fibonacci-number](https://github.com/Muntaj18/DSA/tree/master/0509-fibonacci-number) |
 | [1512-number-of-good-pairs](https://github.com/Muntaj18/DSA/tree/master/1512-number-of-good-pairs) |
 ## Recursion
 |  |
@@ -39,6 +40,7 @@
 | [0021-merge-two-sorted-lists](https://github.com/Muntaj18/DSA/tree/master/0021-merge-two-sorted-lists) |
 | [0231-power-of-two](https://github.com/Muntaj18/DSA/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/Muntaj18/DSA/tree/master/0234-palindrome-linked-list) |
+| [0509-fibonacci-number](https://github.com/Muntaj18/DSA/tree/master/0509-fibonacci-number) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -65,4 +67,12 @@
 |  |
 | ------- |
 | [1189-maximum-number-of-balloons](https://github.com/Muntaj18/DSA/tree/master/1189-maximum-number-of-balloons) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/Muntaj18/DSA/tree/master/0509-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/Muntaj18/DSA/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
