@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Muntaj18/DSA/tree/master/0001-two-sum) |
+| [0989-add-to-array-form-of-integer](https://github.com/Muntaj18/DSA/tree/master/0989-add-to-array-form-of-integer) |
 | [1512-number-of-good-pairs](https://github.com/Muntaj18/DSA/tree/master/1512-number-of-good-pairs) |
 | [2176-count-equal-and-divisible-pairs-in-an-array](https://github.com/Muntaj18/DSA/tree/master/2176-count-equal-and-divisible-pairs-in-an-array) |
 | [2206-divide-array-into-equal-pairs](https://github.com/Muntaj18/DSA/tree/master/2206-divide-array-into-equal-pairs) |
@@ -32,6 +33,7 @@
 | [0029-divide-two-integers](https://github.com/Muntaj18/DSA/tree/master/0029-divide-two-integers) |
 | [0231-power-of-two](https://github.com/Muntaj18/DSA/tree/master/0231-power-of-two) |
 | [0509-fibonacci-number](https://github.com/Muntaj18/DSA/tree/master/0509-fibonacci-number) |
+| [0989-add-to-array-form-of-integer](https://github.com/Muntaj18/DSA/tree/master/0989-add-to-array-form-of-integer) |
 | [1137-n-th-tribonacci-number](https://github.com/Muntaj18/DSA/tree/master/1137-n-th-tribonacci-number) |
 | [1512-number-of-good-pairs](https://github.com/Muntaj18/DSA/tree/master/1512-number-of-good-pairs) |
 | [1518-water-bottles](https://github.com/Muntaj18/DSA/tree/master/1518-water-bottles) |
