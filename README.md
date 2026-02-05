@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/Muntaj18/DSA/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/Muntaj18/DSA/tree/master/0004-median-of-two-sorted-arrays) |
+| [0268-missing-number](https://github.com/Muntaj18/DSA/tree/master/0268-missing-number) |
 | [0989-add-to-array-form-of-integer](https://github.com/Muntaj18/DSA/tree/master/0989-add-to-array-form-of-integer) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Muntaj18/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/Muntaj18/DSA/tree/master/1512-number-of-good-pairs) |
@@ -16,6 +17,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/Muntaj18/DSA/tree/master/0001-two-sum) |
 | [0141-linked-list-cycle](https://github.com/Muntaj18/DSA/tree/master/0141-linked-list-cycle) |
+| [0268-missing-number](https://github.com/Muntaj18/DSA/tree/master/0268-missing-number) |
 | [1189-maximum-number-of-balloons](https://github.com/Muntaj18/DSA/tree/master/1189-maximum-number-of-balloons) |
 | [1512-number-of-good-pairs](https://github.com/Muntaj18/DSA/tree/master/1512-number-of-good-pairs) |
 | [2206-divide-array-into-equal-pairs](https://github.com/Muntaj18/DSA/tree/master/2206-divide-array-into-equal-pairs) |
@@ -34,6 +36,7 @@
 | [0009-palindrome-number](https://github.com/Muntaj18/DSA/tree/master/0009-palindrome-number) |
 | [0029-divide-two-integers](https://github.com/Muntaj18/DSA/tree/master/0029-divide-two-integers) |
 | [0231-power-of-two](https://github.com/Muntaj18/DSA/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/Muntaj18/DSA/tree/master/0268-missing-number) |
 | [0509-fibonacci-number](https://github.com/Muntaj18/DSA/tree/master/0509-fibonacci-number) |
 | [0989-add-to-array-form-of-integer](https://github.com/Muntaj18/DSA/tree/master/0989-add-to-array-form-of-integer) |
 | [1137-n-th-tribonacci-number](https://github.com/Muntaj18/DSA/tree/master/1137-n-th-tribonacci-number) |
@@ -52,6 +55,7 @@
 | ------- |
 | [0029-divide-two-integers](https://github.com/Muntaj18/DSA/tree/master/0029-divide-two-integers) |
 | [0231-power-of-two](https://github.com/Muntaj18/DSA/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/Muntaj18/DSA/tree/master/0268-missing-number) |
 | [2206-divide-array-into-equal-pairs](https://github.com/Muntaj18/DSA/tree/master/2206-divide-array-into-equal-pairs) |
 ## Counting
 |  |
@@ -90,6 +94,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/Muntaj18/DSA/tree/master/0268-missing-number) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Muntaj18/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Heap (Priority Queue)
 |  |
@@ -99,6 +104,7 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Muntaj18/DSA/tree/master/0004-median-of-two-sorted-arrays) |
+| [0268-missing-number](https://github.com/Muntaj18/DSA/tree/master/0268-missing-number) |
 ## Divide and Conquer
 |  |
 | ------- |
