@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/Muntaj18/DSA/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/Muntaj18/DSA/tree/master/0004-median-of-two-sorted-arrays) |
+| [0027-remove-element](https://github.com/Muntaj18/DSA/tree/master/0027-remove-element) |
 | [0268-missing-number](https://github.com/Muntaj18/DSA/tree/master/0268-missing-number) |
 | [0989-add-to-array-form-of-integer](https://github.com/Muntaj18/DSA/tree/master/0989-add-to-array-form-of-integer) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Muntaj18/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -67,6 +68,7 @@
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Muntaj18/DSA/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0027-remove-element](https://github.com/Muntaj18/DSA/tree/master/0027-remove-element) |
 | [0141-linked-list-cycle](https://github.com/Muntaj18/DSA/tree/master/0141-linked-list-cycle) |
 | [0234-palindrome-linked-list](https://github.com/Muntaj18/DSA/tree/master/0234-palindrome-linked-list) |
 ## Stack
