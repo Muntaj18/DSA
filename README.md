@@ -41,6 +41,7 @@
 | [0029-divide-two-integers](https://github.com/Muntaj18/DSA/tree/master/0029-divide-two-integers) |
 | [0231-power-of-two](https://github.com/Muntaj18/DSA/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Muntaj18/DSA/tree/master/0268-missing-number) |
+| [0319-bulb-switcher](https://github.com/Muntaj18/DSA/tree/master/0319-bulb-switcher) |
 | [0509-fibonacci-number](https://github.com/Muntaj18/DSA/tree/master/0509-fibonacci-number) |
 | [0989-add-to-array-form-of-integer](https://github.com/Muntaj18/DSA/tree/master/0989-add-to-array-form-of-integer) |
 | [1137-n-th-tribonacci-number](https://github.com/Muntaj18/DSA/tree/master/1137-n-th-tribonacci-number) |
@@ -122,4 +123,8 @@
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Muntaj18/DSA/tree/master/0238-product-of-array-except-self) |
+## Brainteaser
+|  |
+| ------- |
+| [0319-bulb-switcher](https://github.com/Muntaj18/DSA/tree/master/0319-bulb-switcher) |
 <!---LeetCode Topics End-->
