@@ -21,6 +21,7 @@
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Muntaj18/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/Muntaj18/DSA/tree/master/1512-number-of-good-pairs) |
 | [1800-maximum-ascending-subarray-sum](https://github.com/Muntaj18/DSA/tree/master/1800-maximum-ascending-subarray-sum) |
+| [2085-count-common-words-with-one-occurrence](https://github.com/Muntaj18/DSA/tree/master/2085-count-common-words-with-one-occurrence) |
 | [2176-count-equal-and-divisible-pairs-in-an-array](https://github.com/Muntaj18/DSA/tree/master/2176-count-equal-and-divisible-pairs-in-an-array) |
 | [2206-divide-array-into-equal-pairs](https://github.com/Muntaj18/DSA/tree/master/2206-divide-array-into-equal-pairs) |
 ## Hash Table
@@ -32,6 +33,7 @@
 | [1189-maximum-number-of-balloons](https://github.com/Muntaj18/DSA/tree/master/1189-maximum-number-of-balloons) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Muntaj18/DSA/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/Muntaj18/DSA/tree/master/1512-number-of-good-pairs) |
+| [2085-count-common-words-with-one-occurrence](https://github.com/Muntaj18/DSA/tree/master/2085-count-common-words-with-one-occurrence) |
 | [2206-divide-array-into-equal-pairs](https://github.com/Muntaj18/DSA/tree/master/2206-divide-array-into-equal-pairs) |
 ## Linked List
 |  |
@@ -76,6 +78,7 @@
 | [1189-maximum-number-of-balloons](https://github.com/Muntaj18/DSA/tree/master/1189-maximum-number-of-balloons) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Muntaj18/DSA/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/Muntaj18/DSA/tree/master/1512-number-of-good-pairs) |
+| [2085-count-common-words-with-one-occurrence](https://github.com/Muntaj18/DSA/tree/master/2085-count-common-words-with-one-occurrence) |
 | [2206-divide-array-into-equal-pairs](https://github.com/Muntaj18/DSA/tree/master/2206-divide-array-into-equal-pairs) |
 ## Two Pointers
 |  |
@@ -95,6 +98,7 @@
 |  |
 | ------- |
 | [1189-maximum-number-of-balloons](https://github.com/Muntaj18/DSA/tree/master/1189-maximum-number-of-balloons) |
+| [2085-count-common-words-with-one-occurrence](https://github.com/Muntaj18/DSA/tree/master/2085-count-common-words-with-one-occurrence) |
 ## Dynamic Programming
 |  |
 | ------- |
