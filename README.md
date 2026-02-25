@@ -10,6 +10,7 @@
 | [0027-remove-element](https://github.com/Muntaj18/DSA/tree/master/0027-remove-element) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Muntaj18/DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Muntaj18/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0189-rotate-array](https://github.com/Muntaj18/DSA/tree/master/0189-rotate-array) |
 | [0238-product-of-array-except-self](https://github.com/Muntaj18/DSA/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/Muntaj18/DSA/tree/master/0268-missing-number) |
 | [0334-increasing-triplet-subsequence](https://github.com/Muntaj18/DSA/tree/master/0334-increasing-triplet-subsequence) |
@@ -51,6 +52,7 @@
 | [0002-add-two-numbers](https://github.com/Muntaj18/DSA/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/Muntaj18/DSA/tree/master/0009-palindrome-number) |
 | [0029-divide-two-integers](https://github.com/Muntaj18/DSA/tree/master/0029-divide-two-integers) |
+| [0189-rotate-array](https://github.com/Muntaj18/DSA/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/Muntaj18/DSA/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Muntaj18/DSA/tree/master/0268-missing-number) |
 | [0319-bulb-switcher](https://github.com/Muntaj18/DSA/tree/master/0319-bulb-switcher) |
@@ -90,6 +92,7 @@
 | [0027-remove-element](https://github.com/Muntaj18/DSA/tree/master/0027-remove-element) |
 | [0141-linked-list-cycle](https://github.com/Muntaj18/DSA/tree/master/0141-linked-list-cycle) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Muntaj18/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0189-rotate-array](https://github.com/Muntaj18/DSA/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/Muntaj18/DSA/tree/master/0234-palindrome-linked-list) |
 | [0977-squares-of-a-sorted-array](https://github.com/Muntaj18/DSA/tree/master/0977-squares-of-a-sorted-array) |
 ## Stack
