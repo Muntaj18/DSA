@@ -17,6 +17,7 @@
 | [0238-product-of-array-except-self](https://github.com/Muntaj18/DSA/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/Muntaj18/DSA/tree/master/0268-missing-number) |
 | [0334-increasing-triplet-subsequence](https://github.com/Muntaj18/DSA/tree/master/0334-increasing-triplet-subsequence) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Muntaj18/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0704-binary-search](https://github.com/Muntaj18/DSA/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/Muntaj18/DSA/tree/master/0724-find-pivot-index) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/Muntaj18/DSA/tree/master/0747-largest-number-at-least-twice-of-others) |
@@ -62,6 +63,7 @@
 | [0268-missing-number](https://github.com/Muntaj18/DSA/tree/master/0268-missing-number) |
 | [0319-bulb-switcher](https://github.com/Muntaj18/DSA/tree/master/0319-bulb-switcher) |
 | [0509-fibonacci-number](https://github.com/Muntaj18/DSA/tree/master/0509-fibonacci-number) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Muntaj18/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0989-add-to-array-form-of-integer](https://github.com/Muntaj18/DSA/tree/master/0989-add-to-array-form-of-integer) |
 | [1137-n-th-tribonacci-number](https://github.com/Muntaj18/DSA/tree/master/1137-n-th-tribonacci-number) |
 | [1512-number-of-good-pairs](https://github.com/Muntaj18/DSA/tree/master/1512-number-of-good-pairs) |
@@ -131,6 +133,7 @@
 | ------- |
 | [0169-majority-element](https://github.com/Muntaj18/DSA/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/Muntaj18/DSA/tree/master/0268-missing-number) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Muntaj18/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/Muntaj18/DSA/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0977-squares-of-a-sorted-array](https://github.com/Muntaj18/DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Muntaj18/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
