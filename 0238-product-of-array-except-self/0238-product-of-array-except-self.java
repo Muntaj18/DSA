@@ -3,24 +3,20 @@ class Solution {
 
         int n=nums.length;
 
-        int[] right=new int[n];
+        int[] res=new int[n];
 
-        int pro=1;
+        res[0]=1;
+        for(int i=1;i<n;i++)
+        {
+            res[i]=res[i-1]*nums[i-1];
+        }
+        int right=1;
         for(int i=n-1;i>=0;i--)
         {
-            pro=pro*nums[i];
-            right[i]=pro;
+            res[i]=res[i]*right;
+            right=right*nums[i];
         }
-        int[] ans=new int[n];
-        int left=1;
-        for(int i=0;i<n-1;i++)
-        {
-            int val=left*right[i+1];
-            ans[i]=val;
-            left=left*nums[i];
-        }
-        ans[n-1]=left;
-        return ans;
+        return res;     
         
     }
 }
