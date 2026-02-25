@@ -11,6 +11,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Muntaj18/DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0053-maximum-subarray](https://github.com/Muntaj18/DSA/tree/master/0053-maximum-subarray) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Muntaj18/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0169-majority-element](https://github.com/Muntaj18/DSA/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Muntaj18/DSA/tree/master/0189-rotate-array) |
 | [0238-product-of-array-except-self](https://github.com/Muntaj18/DSA/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/Muntaj18/DSA/tree/master/0268-missing-number) |
@@ -33,6 +34,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/Muntaj18/DSA/tree/master/0001-two-sum) |
 | [0141-linked-list-cycle](https://github.com/Muntaj18/DSA/tree/master/0141-linked-list-cycle) |
+| [0169-majority-element](https://github.com/Muntaj18/DSA/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/Muntaj18/DSA/tree/master/0268-missing-number) |
 | [1189-maximum-number-of-balloons](https://github.com/Muntaj18/DSA/tree/master/1189-maximum-number-of-balloons) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Muntaj18/DSA/tree/master/1394-find-lucky-integer-in-an-array) |
@@ -81,6 +83,7 @@
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Muntaj18/DSA/tree/master/0169-majority-element) |
 | [1189-maximum-number-of-balloons](https://github.com/Muntaj18/DSA/tree/master/1189-maximum-number-of-balloons) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Muntaj18/DSA/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/Muntaj18/DSA/tree/master/1512-number-of-good-pairs) |
@@ -124,6 +127,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Muntaj18/DSA/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/Muntaj18/DSA/tree/master/0268-missing-number) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/Muntaj18/DSA/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0977-squares-of-a-sorted-array](https://github.com/Muntaj18/DSA/tree/master/0977-squares-of-a-sorted-array) |
@@ -145,6 +149,7 @@
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Muntaj18/DSA/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/Muntaj18/DSA/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/Muntaj18/DSA/tree/master/0169-majority-element) |
 ## Prefix Sum
 |  |
 | ------- |
