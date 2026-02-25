@@ -17,6 +17,7 @@
 | [0238-product-of-array-except-self](https://github.com/Muntaj18/DSA/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/Muntaj18/DSA/tree/master/0268-missing-number) |
 | [0334-increasing-triplet-subsequence](https://github.com/Muntaj18/DSA/tree/master/0334-increasing-triplet-subsequence) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/Muntaj18/DSA/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Muntaj18/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0704-binary-search](https://github.com/Muntaj18/DSA/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/Muntaj18/DSA/tree/master/0724-find-pivot-index) |
@@ -38,6 +39,7 @@
 | [0141-linked-list-cycle](https://github.com/Muntaj18/DSA/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/Muntaj18/DSA/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/Muntaj18/DSA/tree/master/0268-missing-number) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/Muntaj18/DSA/tree/master/0442-find-all-duplicates-in-an-array) |
 | [1189-maximum-number-of-balloons](https://github.com/Muntaj18/DSA/tree/master/1189-maximum-number-of-balloons) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Muntaj18/DSA/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/Muntaj18/DSA/tree/master/1512-number-of-good-pairs) |
@@ -133,6 +135,7 @@
 | ------- |
 | [0169-majority-element](https://github.com/Muntaj18/DSA/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/Muntaj18/DSA/tree/master/0268-missing-number) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/Muntaj18/DSA/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Muntaj18/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/Muntaj18/DSA/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0977-squares-of-a-sorted-array](https://github.com/Muntaj18/DSA/tree/master/0977-squares-of-a-sorted-array) |
