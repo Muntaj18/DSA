@@ -22,6 +22,7 @@
 | [0704-binary-search](https://github.com/Muntaj18/DSA/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/Muntaj18/DSA/tree/master/0724-find-pivot-index) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/Muntaj18/DSA/tree/master/0747-largest-number-at-least-twice-of-others) |
+| [0905-sort-array-by-parity](https://github.com/Muntaj18/DSA/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/Muntaj18/DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [0989-add-to-array-form-of-integer](https://github.com/Muntaj18/DSA/tree/master/0989-add-to-array-form-of-integer) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Muntaj18/DSA/tree/master/1394-find-lucky-integer-in-an-array) |
@@ -106,6 +107,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Muntaj18/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/Muntaj18/DSA/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/Muntaj18/DSA/tree/master/0234-palindrome-linked-list) |
+| [0905-sort-array-by-parity](https://github.com/Muntaj18/DSA/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/Muntaj18/DSA/tree/master/0977-squares-of-a-sorted-array) |
 ## Stack
 |  |
@@ -141,6 +143,7 @@
 | [0442-find-all-duplicates-in-an-array](https://github.com/Muntaj18/DSA/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Muntaj18/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/Muntaj18/DSA/tree/master/0747-largest-number-at-least-twice-of-others) |
+| [0905-sort-array-by-parity](https://github.com/Muntaj18/DSA/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/Muntaj18/DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Muntaj18/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Heap (Priority Queue)
