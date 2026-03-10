@@ -11,6 +11,7 @@
 | [0027-remove-element](https://github.com/Muntaj18/DSA/tree/master/0027-remove-element) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Muntaj18/DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0053-maximum-subarray](https://github.com/Muntaj18/DSA/tree/master/0053-maximum-subarray) |
+| [0056-merge-intervals](https://github.com/Muntaj18/DSA/tree/master/0056-merge-intervals) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Muntaj18/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/Muntaj18/DSA/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Muntaj18/DSA/tree/master/0189-rotate-array) |
@@ -137,6 +138,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/Muntaj18/DSA/tree/master/0056-merge-intervals) |
 | [0169-majority-element](https://github.com/Muntaj18/DSA/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/Muntaj18/DSA/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Muntaj18/DSA/tree/master/0268-missing-number) |
