@@ -17,6 +17,7 @@
 | [0169-majority-element](https://github.com/Muntaj18/DSA/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Muntaj18/DSA/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/Muntaj18/DSA/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/Muntaj18/DSA/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/Muntaj18/DSA/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/Muntaj18/DSA/tree/master/0268-missing-number) |
 | [0334-increasing-triplet-subsequence](https://github.com/Muntaj18/DSA/tree/master/0334-increasing-triplet-subsequence) |
@@ -43,6 +44,7 @@
 | [0141-linked-list-cycle](https://github.com/Muntaj18/DSA/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/Muntaj18/DSA/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Muntaj18/DSA/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/Muntaj18/DSA/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/Muntaj18/DSA/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Muntaj18/DSA/tree/master/0268-missing-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Muntaj18/DSA/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -184,4 +186,8 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/Muntaj18/DSA/tree/master/0011-container-with-most-water) |
 | [0334-increasing-triplet-subsequence](https://github.com/Muntaj18/DSA/tree/master/0334-increasing-triplet-subsequence) |
+## Sliding Window
+|  |
+| ------- |
+| [0219-contains-duplicate-ii](https://github.com/Muntaj18/DSA/tree/master/0219-contains-duplicate-ii) |
 <!---LeetCode Topics End-->
