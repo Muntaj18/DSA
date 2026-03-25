@@ -10,6 +10,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Muntaj18/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Muntaj18/DSA/tree/master/0027-remove-element) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Muntaj18/DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0049-group-anagrams](https://github.com/Muntaj18/DSA/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/Muntaj18/DSA/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/Muntaj18/DSA/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/Muntaj18/DSA/tree/master/0057-insert-interval) |
@@ -41,6 +42,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Muntaj18/DSA/tree/master/0001-two-sum) |
+| [0049-group-anagrams](https://github.com/Muntaj18/DSA/tree/master/0049-group-anagrams) |
 | [0141-linked-list-cycle](https://github.com/Muntaj18/DSA/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/Muntaj18/DSA/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Muntaj18/DSA/tree/master/0217-contains-duplicate) |
@@ -122,6 +124,7 @@
 ## String
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/Muntaj18/DSA/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/Muntaj18/DSA/tree/master/0242-valid-anagram) |
 | [1189-maximum-number-of-balloons](https://github.com/Muntaj18/DSA/tree/master/1189-maximum-number-of-balloons) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/Muntaj18/DSA/tree/master/2085-count-common-words-with-one-occurrence) |
@@ -143,6 +146,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/Muntaj18/DSA/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/Muntaj18/DSA/tree/master/0056-merge-intervals) |
 | [0169-majority-element](https://github.com/Muntaj18/DSA/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Muntaj18/DSA/tree/master/0217-contains-duplicate) |
