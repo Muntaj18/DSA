@@ -45,6 +45,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/Muntaj18/DSA/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Muntaj18/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0013-roman-to-integer](https://github.com/Muntaj18/DSA/tree/master/0013-roman-to-integer) |
 | [0049-group-anagrams](https://github.com/Muntaj18/DSA/tree/master/0049-group-anagrams) |
 | [0141-linked-list-cycle](https://github.com/Muntaj18/DSA/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/Muntaj18/DSA/tree/master/0169-majority-element) |
@@ -73,6 +74,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/Muntaj18/DSA/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/Muntaj18/DSA/tree/master/0009-palindrome-number) |
+| [0013-roman-to-integer](https://github.com/Muntaj18/DSA/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/Muntaj18/DSA/tree/master/0029-divide-two-integers) |
 | [0189-rotate-array](https://github.com/Muntaj18/DSA/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/Muntaj18/DSA/tree/master/0231-power-of-two) |
@@ -131,6 +133,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Muntaj18/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0013-roman-to-integer](https://github.com/Muntaj18/DSA/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/Muntaj18/DSA/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/Muntaj18/DSA/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/Muntaj18/DSA/tree/master/0049-group-anagrams) |
