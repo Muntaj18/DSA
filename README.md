@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/Muntaj18/DSA/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/Muntaj18/DSA/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/Muntaj18/DSA/tree/master/0011-container-with-most-water) |
+| [0014-longest-common-prefix](https://github.com/Muntaj18/DSA/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Muntaj18/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Muntaj18/DSA/tree/master/0027-remove-element) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Muntaj18/DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
@@ -130,6 +131,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Muntaj18/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0014-longest-common-prefix](https://github.com/Muntaj18/DSA/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/Muntaj18/DSA/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/Muntaj18/DSA/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/Muntaj18/DSA/tree/master/0242-valid-anagram) |
@@ -207,4 +209,8 @@
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/Muntaj18/DSA/tree/master/0387-first-unique-character-in-a-string) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/Muntaj18/DSA/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
