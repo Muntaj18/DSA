@@ -140,6 +140,7 @@
 | [0020-valid-parentheses](https://github.com/Muntaj18/DSA/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Muntaj18/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0049-group-anagrams](https://github.com/Muntaj18/DSA/tree/master/0049-group-anagrams) |
+| [0058-length-of-last-word](https://github.com/Muntaj18/DSA/tree/master/0058-length-of-last-word) |
 | [0242-valid-anagram](https://github.com/Muntaj18/DSA/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/Muntaj18/DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [1189-maximum-number-of-balloons](https://github.com/Muntaj18/DSA/tree/master/1189-maximum-number-of-balloons) |
