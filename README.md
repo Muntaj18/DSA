@@ -118,6 +118,7 @@
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Muntaj18/DSA/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Muntaj18/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Muntaj18/DSA/tree/master/0027-remove-element) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Muntaj18/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0141-linked-list-cycle](https://github.com/Muntaj18/DSA/tree/master/0141-linked-list-cycle) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Muntaj18/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/Muntaj18/DSA/tree/master/0189-rotate-array) |
@@ -136,6 +137,7 @@
 | [0013-roman-to-integer](https://github.com/Muntaj18/DSA/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/Muntaj18/DSA/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/Muntaj18/DSA/tree/master/0020-valid-parentheses) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Muntaj18/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0049-group-anagrams](https://github.com/Muntaj18/DSA/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/Muntaj18/DSA/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/Muntaj18/DSA/tree/master/0387-first-unique-character-in-a-string) |
@@ -216,4 +218,8 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Muntaj18/DSA/tree/master/0014-longest-common-prefix) |
+## String Matching
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Muntaj18/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->
