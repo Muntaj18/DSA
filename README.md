@@ -16,6 +16,7 @@
 | [0053-maximum-subarray](https://github.com/Muntaj18/DSA/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/Muntaj18/DSA/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/Muntaj18/DSA/tree/master/0057-insert-interval) |
+| [0066-plus-one](https://github.com/Muntaj18/DSA/tree/master/0066-plus-one) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Muntaj18/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/Muntaj18/DSA/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Muntaj18/DSA/tree/master/0189-rotate-array) |
@@ -77,6 +78,7 @@
 | [0009-palindrome-number](https://github.com/Muntaj18/DSA/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/Muntaj18/DSA/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/Muntaj18/DSA/tree/master/0029-divide-two-integers) |
+| [0066-plus-one](https://github.com/Muntaj18/DSA/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/Muntaj18/DSA/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/Muntaj18/DSA/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Muntaj18/DSA/tree/master/0268-missing-number) |
