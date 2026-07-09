@@ -79,6 +79,7 @@
 | [0013-roman-to-integer](https://github.com/Muntaj18/DSA/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/Muntaj18/DSA/tree/master/0029-divide-two-integers) |
 | [0066-plus-one](https://github.com/Muntaj18/DSA/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/Muntaj18/DSA/tree/master/0067-add-binary) |
 | [0189-rotate-array](https://github.com/Muntaj18/DSA/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/Muntaj18/DSA/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Muntaj18/DSA/tree/master/0268-missing-number) |
@@ -101,6 +102,7 @@
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/Muntaj18/DSA/tree/master/0029-divide-two-integers) |
+| [0067-add-binary](https://github.com/Muntaj18/DSA/tree/master/0067-add-binary) |
 | [0231-power-of-two](https://github.com/Muntaj18/DSA/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Muntaj18/DSA/tree/master/0268-missing-number) |
 | [2206-divide-array-into-equal-pairs](https://github.com/Muntaj18/DSA/tree/master/2206-divide-array-into-equal-pairs) |
@@ -143,6 +145,7 @@
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Muntaj18/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0049-group-anagrams](https://github.com/Muntaj18/DSA/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/Muntaj18/DSA/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/Muntaj18/DSA/tree/master/0067-add-binary) |
 | [0242-valid-anagram](https://github.com/Muntaj18/DSA/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/Muntaj18/DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [1189-maximum-number-of-balloons](https://github.com/Muntaj18/DSA/tree/master/1189-maximum-number-of-balloons) |
@@ -161,6 +164,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Muntaj18/DSA/tree/master/0067-add-binary) |
 | [1518-water-bottles](https://github.com/Muntaj18/DSA/tree/master/1518-water-bottles) |
 ## Sorting
 |  |
